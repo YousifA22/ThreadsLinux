@@ -1,0 +1,2 @@
+gcc assgn3.c -o assgn
+xterm -T assgn &
